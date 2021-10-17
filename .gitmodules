@@ -1,0 +1,3 @@
+[submodule "creative-work/little-stories"]
+	path = creative-work/little-stories
+	url = git@github.com:rodrigoelp/little-stories.git
